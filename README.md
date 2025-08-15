@@ -8,7 +8,7 @@
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNhdjB3YzN3OWZ6bWlrZWFzbDUwcm1paTM1ZDZtOW44Zjg0ejhrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width ="25"><b> Skills :</b>
 <div align="center">
-  <img height="400" src="https://i.imgur.com/rQqJrqK.jpeg"  />
+  <img height="400" width="400" src="https://i.imgur.com/rQqJrqK.jpeg"  />
 </div>
 
 ###
