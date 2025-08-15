@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Skills :</h3>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNhdjB3YzN3OWZ6bWlrZWFzbDUwcm1paTM1ZDZtOW44Zjg0ejhrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif"><img><h3 align="left">Skills :</h3>
 
 ###
 
