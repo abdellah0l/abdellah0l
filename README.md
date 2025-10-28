@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Full-stack developer 💻 | AI Engineer ⌛</h3>
+<h3 align="center">Full-stack developer 💻 | Software Engineer ⌛</h3>
 
 ###
 
