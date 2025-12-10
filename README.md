@@ -13,7 +13,7 @@
 
 ###
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://hwbus3icbz.ufs.sh/f/xWpdWlq6bRI07RF1eBNz1OkwRXMHgJe9ruAdQ2iY4GvFtqjW" width="35"><b> Github Stats </b>
 <br>
 
 |              ![](https://github-readme-stats.vercel.app/api?username=abdellah0l&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)              |                ![](https://github-readme-streak-stats.herokuapp.com/?user=abdellah0l&theme=tokyonight&hide_border=false)                |
