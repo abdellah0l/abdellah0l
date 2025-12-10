@@ -8,12 +8,12 @@
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNhdjB3YzN3OWZ6bWlrZWFzbDUwcm1paTM1ZDZtOW44Zjg0ejhrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width ="25"><b> Skills :</b>
 <div align="center">
-  <img height="500" src="https://i.imgur.com/ChLPprH.jpeg"  />
+  <img height="500" src="https://imgur.com/a/qk872vV"  />
 </div>
 
 ###
 
-## <img src="https://hwbus3icbz.ufs.sh/f/xWpdWlq6bRI07RF1eBNz1OkwRXMHgJe9ruAdQ2iY4GvFtqjW" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 |              ![](https://github-readme-stats.vercel.app/api?username=abdellah0l&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)              |                ![](https://github-readme-streak-stats.herokuapp.com/?user=abdellah0l&theme=tokyonight&hide_border=false)                |
